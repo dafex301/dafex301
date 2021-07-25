@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo guys 👋
+
+Perkenalkan nama saya **Fahrel Gibran Alghany**
+
+Saya seorang mahasiswa **Informatika** di **Universitas Diponegoro**
+
+Jika kamu tertarik, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fahrelga/)ku ya.
+
 
 <!--
 **dafex301/dafex301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
