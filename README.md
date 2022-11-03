@@ -1,10 +1,6 @@
-# Halo guys 👋
-
-Perkenalkan nama saya **Fahrel Gibran Alghany**
-
-Saya seorang mahasiswa **Informatika** di **Universitas Diponegoro**
-
-Jika kamu tertarik, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fahrelga/)ku ya.
+# Hi
+I'm CS Student and still learning about tech stuff.
+[Linkedin](https://www.linkedin.com/in/fahrelga/)
 
 <p align="left">
 <a href="https://github.com/dafex301">
