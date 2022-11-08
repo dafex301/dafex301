@@ -1,5 +1,5 @@
 # Hi
-I'm CS Student and still learning about tech stuff.
+CS Student and still learning.
 [Linkedin](https://www.linkedin.com/in/fahrelga/)
 
 <p align="left">
