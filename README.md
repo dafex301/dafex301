@@ -1,5 +1,7 @@
 # Hi
 CS Student and still learning.
+
+[Portfolio](https://dafex.tech)
 [Linkedin](https://www.linkedin.com/in/fahrelga/)
 
 <p align="left">
