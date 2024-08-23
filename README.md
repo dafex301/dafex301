@@ -1,4 +1,4 @@
-# Sup
+# Halo
 
 [Personal Website](https://dafex.tech)
 [Linkedin](https://www.linkedin.com/in/fahrelga/)
