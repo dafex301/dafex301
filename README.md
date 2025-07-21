@@ -2,6 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/fahrelga/)
 [fahrelgibran.com](https://fahrelgibran.com)
+[X](https://x.com/dafex30)
 
 
 <!--
